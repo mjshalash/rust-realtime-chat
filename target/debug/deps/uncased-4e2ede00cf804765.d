@@ -1,0 +1,11 @@
+D:\Malik Shalash\Development\Tutorials\Rust\rust-realtime-chat\target\debug\deps\uncased-4e2ede00cf804765.rmeta: C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+D:\Malik Shalash\Development\Tutorials\Rust\rust-realtime-chat\target\debug\deps\libuncased-4e2ede00cf804765.rlib: C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+D:\Malik Shalash\Development\Tutorials\Rust\rust-realtime-chat\target\debug\deps\uncased-4e2ede00cf804765.d: C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs:
+C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs:
+C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs:
+C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs:
+C:\Users\Malik\ Shalash\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs:

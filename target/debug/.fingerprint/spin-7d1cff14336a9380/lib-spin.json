@@ -1,0 +1,1 @@
+{"rustc":1649159733154951920,"features":"[\"mutex\", \"spin_mutex\"]","target":17810170692256069056,"profile":12637318739757120569,"path":4491628125090561880,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\spin-7d1cff14336a9380\\dep-lib-spin"}}],"rustflags":[],"metadata":9016220610436130891,"config":2202906307356721367,"compile_kind":0}

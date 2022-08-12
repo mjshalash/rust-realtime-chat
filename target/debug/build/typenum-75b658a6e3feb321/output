@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=d:\Malik Shalash\Development\Tutorials\Rust\rust-realtime-chat\target\debug\build\typenum-75b658a6e3feb321\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=d:\Malik Shalash\Development\Tutorials\Rust\rust-realtime-chat\target\debug\build\typenum-75b658a6e3feb321\out\op.rs
